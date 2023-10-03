@@ -1,5 +1,5 @@
-#Hello World!
+# Hello World!
 
-##Charlie Kushelevsky
+## Charlie Kushelevsky
 
-**GitHub:**[Link]([http://a.com](https://github.com/charliekush/cse15l-lab-reports/)https://github.com/charliekush/cse15l-lab-reports/)
+**GitHub:**[ https://github.com/charliekush/cse15l-lab-reports/](https://github.com/charliekush/cse15l-lab-reports/)
