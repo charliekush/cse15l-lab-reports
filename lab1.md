@@ -88,9 +88,9 @@ cat: lecture1: Is a directory
 ## Command with a path to a file as an argument
 * Command: `cat lecture1/Hello.java`
 * Current Working Directory: `/home/`
-* Output: 
+* Output:
+  
 ```
-
 [user@sahara ~]$ cat lecture1/Hello.java
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
@@ -105,7 +105,7 @@ xception {
     System.out.println(content);
   }
 }[user@sahara ~]$
-
 ```
+
 * Explanation: cat outputs the contents of the file at `lecture1/Hello.java`
 Is error?: No
