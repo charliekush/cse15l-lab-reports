@@ -74,7 +74,8 @@ lecture1/Hello.java
 
 
 ^C
-[user@sahara ~]$ 
+[user@sahara ~]$
+
 ```
 * Explanation: Nothing is printed because cat needs the path to a file. Because no arguement is passed, it waits for a file to be inputed.
 * Is error?: No
