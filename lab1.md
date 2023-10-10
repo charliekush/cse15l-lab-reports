@@ -71,10 +71,6 @@ lecture1/Hello.java
 * Output: 
 ```
 [user@sahara ~]$ cat
-
-
-
-
 ```
 * Explanation: Nothing is printed because cat needs the path to a file. Because no arguement is passed, it waits for a file to be inputed.
 * Is error?: No
