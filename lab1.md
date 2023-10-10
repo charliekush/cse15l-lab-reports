@@ -73,7 +73,7 @@ lecture1/Hello.java
 [user@sahara ~]$ cat
 
 
-^C
+\^C
 [user@sahara ~]$
 
 ```
