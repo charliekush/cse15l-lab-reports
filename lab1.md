@@ -94,6 +94,7 @@ cat: lecture1: Is a directory
 * Current Working Directory: `/home/`
 * Output: 
 ```
+
 [user@sahara ~]$ cat lecture1/Hello.java
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
@@ -107,7 +108,8 @@ xception {
 0]), StandardCharsets.UTF_8);    
     System.out.println(content);
   }
-}[user@sahara ~]$ 
+}[user@sahara ~]$
+
 ```
 * Explanation: cat outputs the contents of the file at `lecture1/Hello.java`
 Is error?: No
