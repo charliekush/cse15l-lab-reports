@@ -22,7 +22,7 @@
 ```
 
 ## The symptom, as the output of running the tests (provide it as a screenshot of running JUnit with at least the two inputs above)
-![Symptom](https://github.com/charliekush/cse15l-lab-reports/blob/91e38080abbb83c3d2e140f042180a487432f6b9/Screenshot%202023-11-19%20at%2011.07.20%20PM.png)
+![Symptom](https://raw.githubusercontent.com/charliekush/cse15l-lab-reports/91e38080abbb83c3d2e140f042180a487432f6b9/Screenshot%202023-11-19%20at%2011.07.20%20PM.png)
 
 ## The bug, as the before-and-after code change required to fix it (as two code blocks in Markdown)
 Before:
