@@ -144,6 +144,8 @@ $ grep -E "American 77|United 93" ./technical/911report/*
 ```
 Why it is useful:
 I am able to search for two of the flights of 9/11 at the same time, using the regex "OR" Operator, allowing me to complete two search at once.
+
+Source: `man grep`
 ### Example 2:
 Input and output:
 ```
@@ -231,7 +233,8 @@ $grep -E "[0-9]{4}" ./technical/911report/chapter-11.txt > tmp
 
 ```
 Why it is useful:
-
+I am able to search for any years mentioned using a regex search to look for 4 numbers in a row.
+Source: `man grep`
 ## Command Line Option 2: grep -R
 ### Example 1:
 Input and output:
@@ -243,6 +246,7 @@ $ grep -R " liver " ./technical/government/*
 ```
 Why it is useful:
 I am able to search recursively in all files, including those nested in sub directories, of the ./technical/government/ directory for the term " liver "
+Source: `man grep`
 ### Example 2:
 Input and output:
 ```
@@ -251,7 +255,7 @@ $ grep -R "H.R. 22" ./technical/government/* > ./tmp
 ```
 Why it is useful:
 Like the last command, I am able to search recursively in all files, including those nested in sub directories, of the ./technical/government/ directory for the term "H.R. 22". THis usage is interesting because it shows it was only found in one file.
-
+Source: `man grep`
 ## Command Line Option 3: grep -c
 ### Example 1:
 Input and output:
@@ -512,6 +516,7 @@ $ grep -c "a" ./technical/plos/*
 ```
 Why it is useful:
 This command is useful because I am able to get a general vew of the number of times the letter "a" is found in the "./technical/plos/" directory 
+Source: `man grep`
 ### Example 2:
 Input and output:
 ```
@@ -536,6 +541,7 @@ $ grep -c "Bush" ./technical/911report/*
 ```
 Why it is useful:
 The command searches all files in the "./technical/911report/" for instances of the term "Bush" and returns the count of each one.
+Source: `man grep`
 ## Command Line Option 4: grep -n
 ### Example 1:
 Input and output:
@@ -546,6 +552,7 @@ $ grep -n "Bush" ./technical/911report/chapter-1.txt
 ```
 Why it is useful:
 This command seaches for the term "Bush" in the file ./technical/911report/chapter-1.txt. However the -n option returns the line number in the file.
+Source: `man grep`
 ### Example 2:
 Input and output:
 ```
@@ -567,5 +574,6 @@ $ grep -n "Mintie" ./technical/government/Media/A_helping_hand.txt
 ```
 Why it is useful:
 This command seaches for the term "Bush" in the file ./technical/government/Media/A_helping_hand.txt. The option also shows all the line numbers for the matching lines.
+Source: `man grep`
 
 
