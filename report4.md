@@ -8,8 +8,9 @@
 # Step 5
 | Keystrokes                                    | Explanation                                                                                                                                   |
 |-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| `cd lab7_<tab><return>` `git pu<tab><return>` | Loaded directory I created in the lab with tab completion Used bash tab complete to run git pull, which synced my local directory with github |
+| `cd lab7_<tab><return>` `git pu<tab><return>` | Loaded directory I created in the lab with tab completion. Used bash tab complete to run git pull, which synced my local directory with github |
 
+![Step5](https://raw.githubusercontent.com/charliekush/cse15l-lab-reports/86028bd416e2b7c4c23cd83774609031cdc9ac04/Screenshot%202023-11-20%20at%2011.32.50%20PM.png)
 # Step 6
 | Keystrokes              | Explanation                                          |
 |-------------------------|------------------------------------------------------|
