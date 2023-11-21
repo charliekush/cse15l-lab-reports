@@ -20,3 +20,10 @@
 
 ![Step6](https://raw.githubusercontent.com/charliekush/cse15l-lab-reports/eec4d7aefc915fc952a4913c72698c0f90cefe70/Screenshot%202023-11-20%20at%209.35.38%20PM.png)
 
+# Step 7
+
+| Keystrokes                                                                                                      | Explanation                                                                                                                                                                                               |
+|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `grep -n "index1" List<tab>.j<tab><enter>`<br><br>`vim List<tab>.j<tab><enter>`<br><br>`:44<enter>`<br><br>`es` | Found the line number of the last appearance of "index1"<br><br>Opened vim on ListExamples.java<br><br>Went to correct line<br><br>In normal mode went to end of first word and replaced character with 2 |
+
+![Step7](https://raw.githubusercontent.com/charliekush/cse15l-lab-reports/964aec9409d4e04a5d8389046819d0d4704d1e28/Screenshot%202023-11-20%20at%2011.41.13%20PM.png)
